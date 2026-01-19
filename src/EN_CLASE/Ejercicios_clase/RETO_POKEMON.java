@@ -1,4 +1,6 @@
-package Ejercicios_clase;
+/*
+package EN_CLASE.Ejercicios_clase;
+
 import java.util.Scanner;
 
 public class RETO_POKEMON {
@@ -45,7 +47,7 @@ public class RETO_POKEMON {
             System.out.println("Introduce el niveñ de tu pokemon: ");
             int nivel = sc.nextInt();
 
-            String lista_pokemon += nombre;
+    /*        String lista_pokemon += nombre;
             String lista_niveles += nivel;
 
             return lista_pokemon, lista_niveles
@@ -53,3 +55,4 @@ public class RETO_POKEMON {
         }
     }
 }
+*/
