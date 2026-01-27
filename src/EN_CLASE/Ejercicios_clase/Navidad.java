@@ -1,4 +1,4 @@
-package EN_CLASE.Reto_Navidad;
+package EN_CLASE.Ejercicios_clase;
 
 import java.util.Scanner;
 import java.util.Random;

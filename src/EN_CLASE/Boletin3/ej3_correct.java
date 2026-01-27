@@ -50,7 +50,6 @@ public class ej3_correct {
         else if (opcion == 4) numProvincias = 1;
         else {
             System.out.println("Opción inválida");
-            return 0;
         }
 
         for (int i = 1; i <= numProvincias; i++) {
