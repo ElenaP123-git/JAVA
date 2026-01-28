@@ -1,0 +1,17 @@
+package org.example.ActividadesU1Java.Funciones;
+import java.util.Scanner;
+public class Ejercicio0007 {
+    static void main() {
+       System.out.println("Introduce un número: ");
+       Scanner sc = new Scanner(System.in);
+        int numero = sc.nextInt();
+        Ejercicio0007 ref=new Ejercicio0007();
+        ref.imprimeMultiplos(numero);
+    }
+    void imprimeMultiplos(int numero){
+        int rep=10;
+        for (int i=0; i<rep;i++){
+            System.out.println(numero*i);
+        }
+    }
+}
