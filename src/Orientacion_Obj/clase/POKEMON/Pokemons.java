@@ -1,4 +1,4 @@
-package Orientacion_Obj.POKEMON;
+package Orientacion_Obj.clase.POKEMON;
 
 import java.util.Arrays;
 

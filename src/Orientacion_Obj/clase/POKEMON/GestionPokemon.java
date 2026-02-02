@@ -1,4 +1,4 @@
-package Orientacion_Obj.POKEMON;
+package Orientacion_Obj.clase.POKEMON;
 
 public class GestionPokemon {
     public static void main(String[] args) {

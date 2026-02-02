@@ -1,4 +1,4 @@
-package Orientacion_Obj.Personas;
+package Orientacion_Obj.clase.Personas;
 
 public class Persona {
     // atributos
